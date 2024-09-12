@@ -9,7 +9,7 @@ pygame.init()
 # Definindo dimensões da janela
 WIDTH, HEIGHT = 800, 600
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Jogo com Menu e Funções")
+pygame.display.set_caption("Aventura")
 
 # Definindo cores
 WHITE = (255, 255, 255)
